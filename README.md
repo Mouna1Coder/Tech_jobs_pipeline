@@ -1,4 +1,4 @@
-# Tech_jobs_pipeline
+
 # Tech Jobs Data Pipeline Project
 
 This project demonstrates a simple yet effective data engineering pipeline using Python, MySQL, and Google Looker Studio. It extracts, transforms, and loads tech job listings into a MySQL database and visualises the insights via a custom dashboard.
